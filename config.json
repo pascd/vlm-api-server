@@ -1,5 +1,0 @@
-{ 
-    "model_name": "llava-hf/llava-v1.6-34b-hf",
-    "max_new_tokens": 100,
-    "port": 8035
-}

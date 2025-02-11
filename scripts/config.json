@@ -1,0 +1,7 @@
+{ 
+    "model_name": "deepseek-ai/deepseek-vl-7b-base",
+    "opt1": "llava-hf/llava-v1.6-34b-hf",
+    "opt2": "deepseek-ai/deepseek-vl-7b-base",
+    "max_new_tokens": 100,
+    "port": 8035
+}
