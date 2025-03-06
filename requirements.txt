@@ -2,3 +2,9 @@ torch
 transformers
 flask
 flask-restful
+flask-cors
+pillow
+protobuf
+bitsandbytes
+optimum
+accelerate
